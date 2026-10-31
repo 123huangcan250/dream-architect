@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.claude/
+# Local install mirror (China); CI uses the default npm registry.
+.npmrc
+*.log
+.DS_Store
