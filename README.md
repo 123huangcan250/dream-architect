@@ -2,7 +2,8 @@
 
 基于 Portal 的非欧几何空间探索引擎 + 可游玩的第一人称游戏。Three.js 0.186 + TypeScript + 自写 GLSL 着色器。
 
-**▶ 在线体验：https://123huangcan250.github.io/dream-architect/**（桌面浏览器 + 鼠标键盘，点击画面锁定视角）
+**▶ 在线体验：https://123huangcan250.github.io/dream-architect/**
+（桌面浏览器 + 鼠标键盘，点击画面锁定视角）
 
 ```bash
 npm install
